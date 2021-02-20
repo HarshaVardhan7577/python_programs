@@ -5,3 +5,5 @@ b=5-8
 c=3/8
 d=9*6
 print (a, b, c, d)
+#f-strings
+print(f"value of a is:{a}")
